@@ -9,6 +9,9 @@
 <html>
   <head>
     <title>$Title$</title>
+      <%
+          System.out.println();
+      %>
   </head>
   <body>
   <h1>
